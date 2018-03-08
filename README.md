@@ -32,3 +32,7 @@ We also want new members to have an structured way to know how to get involved a
       1. Suggest projects based on skills
    1. How to Start a Project
    1. How to Manage a Project
+      1. The One Month Sprint Cycle
+            1. Meetings = Sprint Planning/unblocking/backlog grooming
+            1. Mid-Monthly Check in, Blockers? Need Help? 
+            1. Weekly Check in on Slack
